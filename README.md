@@ -1,5 +1,5 @@
 # Gender-Recognition-using-CNN-from-Scratch
-We used CNN for predicting gender among 60 speakers (30 males and 30 females), we designed the CNN from scratch without using any tensorflow or keras library and got 93.47% accuracy when classifying the gender of speakers that the model had never hear before.
+We used CNN for predicting gender among 30 speakers (15 males and 15 females), we designed the CNN from scratch without using any tensorflow or keras library and got 93.47% accuracy when classifying the gender of speakers that the model had never hear before.
 
 the problem was to learn how to manipulate audio data and build model to classify sounds.
 
